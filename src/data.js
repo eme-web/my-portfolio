@@ -10,6 +10,8 @@ import {
 import img1 from "./Images/RealtorPage.png";
 import img2 from "./Images/codeBookPage.png";
 import img3 from "./Images/cinemaHomePage.png";
+import img4 from "./Images/Decamper.png";
+import img5 from "./Images/Blogging-api.png";
 
 const aboutMe = [
     {
@@ -94,7 +96,29 @@ const projects = [
         description: "A web application where users can have access to search and watch movie of their choice.",
         projectLink:"https://cinema-nu-six.vercel.app/",
         githubLink: "https://github.com/eme-web/cinema",
-    }
+    },
+    {
+        id: 4,
+        imgSrc: img4,
+        alt: "Tech-BootcampAPI",
+        projectName: "Tech-Bootcamp",
+        technologies: "Express, Node.js, MongoDB, JWT",
+        description: "Backend API for Tech-Bootcamp application to manage bootcamps, courses, reviews, users and authentication.",
+        projectLink:"https://bootcamper-api-onqm.onrender.com/",
+        githubLink: "https://github.com/eme-web/TechBootcamperAPI.git",
+    },
+    {
+        id: 5,
+        imgSrc: img5,
+        alt: "BloggingAPI",
+        projectName: "Blogging Platform",
+        technologies: "Express, Node.js, MongoDB, JWT",
+        description: "Backend API for Blogging application to manage blog posts, users and authentication.",
+        projectLink:"https://blogging-api-295u.onrender.com/",
+        githubLink: "https://github.com/eme-web/Blogging-api.git",
+    },
+   
+
 ];
 
 export { aboutMe, education, skills};
