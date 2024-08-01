@@ -10,8 +10,9 @@ import {
 import img1 from "./Images/RealtorPage.png";
 import img2 from "./Images/codeBookPage.png";
 import img3 from "./Images/cinemaHomePage.png";
-import img4 from "./Images/Decamper.png";
-import img5 from "./Images/Blogging-api.png";
+import img4 from "./Images/Omnifood.png"
+import img5 from "./Images/Decamper.png";
+import img6 from "./Images/Blogging-api.png";
 
 const aboutMe = [
     {
@@ -100,6 +101,16 @@ const projects = [
     {
         id: 4,
         imgSrc: img4,
+        alt: "Omnifood - A Meal web application",
+        projectName: "Omnifood - A meal Web Application",
+        technologies: "Html, Css ",
+        description: "A web application where users can have a meal plan, get food recipes and also order food.",
+        projectLink:"https://foodie-six-mocha.vercel.app/",
+        githubLink: "https://github.com/eme-web/Foodie",
+    },
+    {
+        id: 5,
+        imgSrc: img5,
         alt: "Tech-BootcampAPI",
         projectName: "Tech-Bootcamp",
         technologies: "Express, Node.js, MongoDB, JWT",
@@ -108,8 +119,8 @@ const projects = [
         githubLink: "https://github.com/eme-web/TechBootcamperAPI.git",
     },
     {
-        id: 5,
-        imgSrc: img5,
+        id: 6,
+        imgSrc: img6,
         alt: "BloggingAPI",
         projectName: "Blogging Platform",
         technologies: "Express, Node.js, MongoDB, JWT",

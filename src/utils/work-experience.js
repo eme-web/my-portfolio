@@ -11,13 +11,13 @@ export const workExperience = [
             "JavaScript",
         ],
         description: [
-            "Collaborated with a functional team to build a microservice application that sends notifications to users using Node.js and MongoDB.", 
-            "Built a Flight Schedule and Staff management system using Node.js and MongoDB.",
-            "Developed RESTful APIs, enhancing application functionality and increasing concurrent user handling capacity by 30%."
-            // "Collaborated with a functional team to build a microservice application that sends notifications and files to users using Node.js and MongoDB.",
-            // "Created a careers platform for assessment with Node.js that sorts successful applicants after assessment.",
-            // "collaborated with a functional team to deliver a scalable web application used to create and update flight schedules using Node.j and MongoDB.",
-
+            "Improved performance and reliability of the system by breaking down the monolith into various microservices.",
+            "Built, documented new features and APIs and support frontend engineers with API integrations.",
+            "Developed customer-facing applications using RESTful, WebSocket and RPC-based APIs.", 
+            "Created database schemas that represent and support new products/enhancements.",
+            "Maintained code integrity, organization, versioning and applied object-oriented design principles.",
+            "Debugged and resolved production issues as required.", 
+       
         ],
     },
 ];

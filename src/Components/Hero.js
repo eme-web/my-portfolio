@@ -1,4 +1,4 @@
-import resume from "../Assets/Resume.pdf";
+import resume from "../Assets/EmeUdobong_CV.pdf";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {faAnglesDown } from "@fortawesome/free-solid-svg-icons";
 import SocialMediaIcons from "./small-components/SocialMediaIcons";
