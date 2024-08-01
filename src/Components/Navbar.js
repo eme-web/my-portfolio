@@ -4,7 +4,7 @@ import {
     faXmark,
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import resume from "../Assets/Resume.pdf";
+import resume from "../Assets/EmeUdobong_CV.pdf";
 import { useState } from "react";
 
 
